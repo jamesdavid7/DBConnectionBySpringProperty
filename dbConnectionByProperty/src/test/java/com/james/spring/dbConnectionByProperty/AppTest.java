@@ -1,10 +1,8 @@
-package com.spring.employee;
+package com.james.spring.dbConnectionByProperty;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-
-//Code Changed to Test GIT - TEst Conflict
 
 /**
  * Unit test for simple App.
